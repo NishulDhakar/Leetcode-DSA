@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -41,5 +42,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
