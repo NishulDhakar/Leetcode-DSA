@@ -30,11 +30,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,4 +46,9 @@
 | ------- |
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
