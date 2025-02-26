@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/NishulDhakar/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
