@@ -87,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
