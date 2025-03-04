@@ -49,6 +49,7 @@
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NishulDhakar/DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NishulDhakar/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
