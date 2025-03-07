@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishulDhakar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NishulDhakar/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Stack
 |  |
 | ------- |
