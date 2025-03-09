@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishulDhakar/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
@@ -102,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -115,6 +117,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NishulDhakar/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
