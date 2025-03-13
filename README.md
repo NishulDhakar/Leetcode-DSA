@@ -53,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NishulDhakar/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
@@ -63,6 +64,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NishulDhakar/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
