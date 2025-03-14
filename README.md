@@ -66,6 +66,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/NishulDhakar/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/NishulDhakar/DSA/tree/master/0052-n-queens-ii) |
+| [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
 ## String
 |  |
 | ------- |
