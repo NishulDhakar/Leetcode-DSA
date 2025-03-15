@@ -31,6 +31,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/NishulDhakar/DSA/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NishulDhakar/DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/NishulDhakar/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
 ## Recursion
