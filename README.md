@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/NishulDhakar/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NishulDhakar/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Stack
 |  |
