@@ -49,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishulDhakar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
@@ -105,12 +106,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/NishulDhakar/DSA/tree/master/0052-n-queens-ii) |
 | [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
