@@ -119,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NishulDhakar/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NishulDhakar/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
