@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
 | [0932-monotonic-array](https://github.com/NishulDhakar/DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NishulDhakar/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
@@ -30,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -126,6 +128,7 @@
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +165,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishulDhakar/DSA/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
