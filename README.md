@@ -89,6 +89,7 @@
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/NishulDhakar/DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -148,6 +149,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -157,6 +159,7 @@
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NishulDhakar/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -188,4 +191,5 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NishulDhakar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
