@@ -88,6 +88,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NishulDhakar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NishulDhakar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/NishulDhakar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/NishulDhakar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NishulDhakar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
