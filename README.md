@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NishulDhakar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
@@ -185,5 +186,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NishulDhakar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
