@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishulDhakar/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
@@ -155,6 +156,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
