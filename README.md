@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/NishulDhakar/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishulDhakar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
@@ -218,6 +220,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
