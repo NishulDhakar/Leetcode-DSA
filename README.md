@@ -157,6 +157,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NishulDhakar/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -208,4 +209,16 @@
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
