@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/NishulDhakar/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/NishulDhakar/DSA/tree/master/0056-merge-intervals) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NishulDhakar/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/NishulDhakar/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/NishulDhakar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NishulDhakar/DSA/tree/master/0142-linked-list-cycle-ii) |
