@@ -176,6 +176,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NishulDhakar/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NishulDhakar/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NishulDhakar/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NishulDhakar/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NishulDhakar/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NishulDhakar/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
