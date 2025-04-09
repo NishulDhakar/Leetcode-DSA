@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NishulDhakar/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/NishulDhakar/DSA/tree/master/0496-next-greater-element-i) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/NishulDhakar/DSA/tree/master/0932-monotonic-array) |
@@ -68,6 +69,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NishulDhakar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NishulDhakar/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -84,6 +86,7 @@
 | [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishulDhakar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
