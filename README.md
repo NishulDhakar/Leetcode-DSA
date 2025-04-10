@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/NishulDhakar/DSA/tree/master/0496-next-greater-element-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/NishulDhakar/DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
@@ -73,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/NishulDhakar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
@@ -92,6 +94,7 @@
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishulDhakar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -183,6 +186,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
