@@ -180,6 +180,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NishulDhakar/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/NishulDhakar/DSA/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NishulDhakar/DSA/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -190,6 +191,7 @@
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1782-smallest-string-with-a-given-numeric-value](https://github.com/NishulDhakar/DSA/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
