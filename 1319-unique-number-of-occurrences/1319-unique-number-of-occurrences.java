@@ -9,13 +9,17 @@ class Solution {
 
         HashSet <Integer> set = new HashSet<>();
 
-       for (int count : map.values()){
+        for(int count : map.values()){
 
             set.add(count);
         
+        if(set.size() == map.size()){
+            return true;
         }
 
-       return  set.size() == map.size();
+        }
+
+        return false;
         
     }
 }
