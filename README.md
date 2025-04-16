@@ -53,6 +53,7 @@
 | [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/NishulDhakar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NishulDhakar/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/NishulDhakar/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NishulDhakar/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/NishulDhakar/DSA/tree/master/0229-majority-element-ii) |
@@ -284,6 +285,7 @@
 | [0141-linked-list-cycle](https://github.com/NishulDhakar/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NishulDhakar/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/NishulDhakar/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
@@ -291,6 +293,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NishulDhakar/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/NishulDhakar/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NishulDhakar/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NishulDhakar/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -339,4 +342,8 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishulDhakar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NishulDhakar/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
