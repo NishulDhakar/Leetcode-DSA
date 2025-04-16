@@ -1,46 +1,107 @@
 class LRUCache {
+    class Node{
+        int key;
+        int value;
 
-    int capacity;
-    Map<Integer, Integer> cache;
-    LinkedList<Integer> list;
+        Node prev;
+        Node next;
 
+        Node(int key, int value){
+            this.key= key;
+            this.value= value;
+        }
+    }
+
+    public Node[] map;
+    public int count, capacity;
+    public Node head, tail;
+    
     public LRUCache(int capacity) {
-        this.capacity = capacity;
-        this.cache = new HashMap<>(capacity);
-        this.list = new LinkedList<>();
         
+        this.capacity= capacity;
+        count= 0;
+        
+        map= new Node[10_000+1];
+        
+        head= new Node(0,0);
+        tail= new Node(0,0);
+        
+        head.next= tail;
+        tail.prev= head;
+        
+        head.prev= null;
+        tail.next= null;
+    }
+    
+    public void deleteNode(Node node){
+        node.prev.next= node.next;
+        node.next.prev= node.prev;       
+        
+        return;
+    }
+    
+    public void addToHead(Node node){
+        node.next= head.next;
+        node.next.prev= node;
+        node.prev= head;
+        
+        head.next= node;      
+        
+        return;
     }
     
     public int get(int key) {
-        if (cache.containsKey(key)) {
-            list.remove(Integer.valueOf(key)); 
-            list.addLast(key);
-            return cache.get(key);
-        } else {
-            return -1;
-        }
         
+        if( map[key] != null ){
+            
+            Node node= map[key];
+            
+            int nodeVal= node.value;
+            
+            deleteNode(node);
+            
+            addToHead(node);
+            
+            return nodeVal;
+        }
+        else
+            return -1;
     }
     
     public void put(int key, int value) {
-
-        if (cache.containsKey(key)) {
-            
-            cache.put(key, value);
-            list.remove(Integer.valueOf(key));
-            list.addLast(key);
-        } else {
-            if (cache.size() == capacity) {
-                
-                int lruKey = list.removeFirst();
-                cache.remove(lruKey);
-            }
-           
-            cache.put(key, value);
-            list.addLast(key);
         
+        if(map[key] != null){
+            
+            Node node= map[key];
+            
+            node.value= value;
+            
+            deleteNode(node);
+            
+            addToHead(node);
+            
+        } else {
+            
+            Node node= new Node(key,value);
+            
+            map[key]= node;
+            
+            if(count < capacity){
+                count++;
+                addToHead(node);
+            } 
+            else {
+                
+                map[tail.prev.key]= null;
+                deleteNode(tail.prev);
+                
+                addToHead(node);
+            }
+        }
+        
+        return;
     }
-}
+    
 }
 
 /**
