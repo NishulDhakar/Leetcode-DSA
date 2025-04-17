@@ -1,13 +1,13 @@
 class Solution {
     public String addBinary(String a, String b) {
 
-        if(a.length() < b.length()) return addBinary(b,a);
-
         StringBuilder sb = new StringBuilder();
 
         int i = a.length() -1;
         int j = b.length() -1;
         int carry = 0;
+
+        if(a.length() < b.length()) return addBinary(b,a);
 
         while(i >= 0 || j >=0 || carry == 1)
         {
