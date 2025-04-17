@@ -116,6 +116,7 @@
 | [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NishulDhakar/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NishulDhakar/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/NishulDhakar/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NishulDhakar/DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NishulDhakar/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/NishulDhakar/DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/NishulDhakar/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
@@ -183,6 +185,7 @@
 | [0014-longest-common-prefix](https://github.com/NishulDhakar/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/NishulDhakar/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NishulDhakar/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NishulDhakar/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/NishulDhakar/DSA/tree/master/0067-add-binary) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NishulDhakar/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NishulDhakar/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
