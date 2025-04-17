@@ -1,6 +1,8 @@
 class Solution {
     public String addBinary(String a, String b) {
 
+        if(a.length() < b.length()) return addBinary(b,a);
+
         StringBuilder sb = new StringBuilder();
 
         int i = a.length() -1;
