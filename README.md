@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/NishulDhakar/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/NishulDhakar/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/NishulDhakar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/NishulDhakar/DSA/tree/master/0496-next-greater-element-i) |
@@ -302,6 +303,7 @@
 | [0155-min-stack](https://github.com/NishulDhakar/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NishulDhakar/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NishulDhakar/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/NishulDhakar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/NishulDhakar/DSA/tree/master/0969-number-of-recent-calls) |
@@ -327,6 +329,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NishulDhakar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NishulDhakar/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Queue
 |  |
