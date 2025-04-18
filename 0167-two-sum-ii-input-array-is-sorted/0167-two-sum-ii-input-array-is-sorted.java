@@ -5,8 +5,6 @@ class Solution {
         int l = 0;
         int r = n-1;
 
-        int arr[] = new int[2];
-
         while(l < r){
 
             int crrSum = numbers[l] + numbers[r];
@@ -24,7 +22,7 @@ class Solution {
 
         }
 
-        return new int[2];
+        return new int[]{-1 , -1};
         
     }
 }
