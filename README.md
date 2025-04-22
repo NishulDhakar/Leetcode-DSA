@@ -41,6 +41,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/NishulDhakar/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NishulDhakar/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -121,6 +122,7 @@
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0326-power-of-three](https://github.com/NishulDhakar/DSA/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/NishulDhakar/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NishulDhakar/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -350,6 +353,7 @@
 | [0724-find-pivot-index](https://github.com/NishulDhakar/DSA/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NishulDhakar/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Queue
 |  |
