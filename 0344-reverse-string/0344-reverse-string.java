@@ -6,10 +6,9 @@ class Solution {
 
         while(left < right){
 
-            s[left] ^= s[right];
-            s[right] ^= s[left];
-            s[left] ^= s[right];
-
+            char temp = s[left];
+            s[left] = s[right];
+            s[right] = temp;
 
             left++;
             right--;
