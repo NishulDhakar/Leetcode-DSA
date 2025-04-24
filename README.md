@@ -26,6 +26,7 @@
 | [0229-majority-element-ii](https://github.com/NishulDhakar/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NishulDhakar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/NishulDhakar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -270,6 +271,7 @@
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishulDhakar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0908-middle-of-the-linked-list) |
