@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NishulDhakar/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/NishulDhakar/DSA/tree/master/0041-first-missing-positive) |
@@ -265,6 +266,7 @@
 | [0005-longest-palindromic-substring](https://github.com/NishulDhakar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NishulDhakar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
