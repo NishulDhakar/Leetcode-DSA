@@ -54,6 +54,7 @@
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NishulDhakar/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NishulDhakar/DSA/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -302,6 +303,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/NishulDhakar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Trie
 |  |
@@ -388,10 +390,12 @@
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/NishulDhakar/DSA/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NishulDhakar/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
 | ------- |
