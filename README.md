@@ -60,6 +60,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NishulDhakar/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/NishulDhakar/DSA/tree/master/2915-count-of-interesting-subarrays) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NishulDhakar/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
