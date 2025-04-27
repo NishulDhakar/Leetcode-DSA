@@ -1,28 +1,28 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
+        int l = 0 , r = numbers.length -1;
+    
+        int x[] = new int[2];
 
-        int n = numbers.length;
-        int l = 0;
-        int r = n-1;
+            while(l < r){
 
-        while(l < r){
+                int sum = numbers[l] + numbers[r];
 
-            int crrSum = numbers[l] + numbers[r];
-
-            if(crrSum == target){
-
-               return new int[]{l + 1, r + 1};
+                if(sum == target){
+                    x[0] = l+1;
+                    x[1] = r+1;
+                }
                 
-            }else if(crrSum< target) {
-                l++;
+                if(sum < target){
+                    l++;
+                }else{
+                    r--;
+                }
 
-            }else{
-                if(crrSum > target) r--;
             }
 
-        }
-
-        return new int[]{-1 , -1};
+            return x;
+        
         
     }
 }
