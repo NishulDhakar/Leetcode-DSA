@@ -53,6 +53,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NishulDhakar/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NishulDhakar/DSA/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NishulDhakar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -380,6 +382,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NishulDhakar/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/NishulDhakar/DSA/tree/master/2915-count-of-interesting-subarrays) |
 ## Queue
 |  |
@@ -402,6 +405,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishulDhakar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
