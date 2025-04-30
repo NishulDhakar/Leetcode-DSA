@@ -1,24 +1,23 @@
 class Solution {
     public long countSubarrays(int[] nums, long k) {
-        long strt = 0; 
-        long currSum = 0; 
-        long res = 0; 
-       
-        for (int end = 0; end < nums.length; end++) {
-          
-            currSum += nums[end];
 
-        
-            while (currSum * (end - strt + 1) >= k) {
+          int i = 0;
+          long count = 0;
+          long sum = 0;
 
-                currSum -= nums[(int)strt];
+          for(int j = 0; j < nums.length; j++){
 
-                strt++;
+            sum += nums[j];
+
+            while(sum * (j -i +1)>= k){
+                sum = sum - nums[i];
+                i++;
             }
 
-            res += (end - strt + 1);
-        }
+            count += (j -i +1);
+          }
+        
+        return count;
 
-        return res;
     }
 }
