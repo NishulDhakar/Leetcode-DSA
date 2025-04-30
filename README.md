@@ -46,6 +46,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/NishulDhakar/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NishulDhakar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
@@ -152,6 +153,7 @@
 | [0326-power-of-three](https://github.com/NishulDhakar/DSA/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/NishulDhakar/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NishulDhakar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NishulDhakar/DSA/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
