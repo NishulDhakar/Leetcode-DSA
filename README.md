@@ -52,6 +52,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NishulDhakar/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -123,6 +124,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NishulDhakar/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Counting
@@ -252,6 +254,7 @@
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/NishulDhakar/DSA/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Matrix
 |  |
 | ------- |
@@ -405,18 +408,21 @@
 | [0387-first-unique-character-in-a-string](https://github.com/NishulDhakar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/NishulDhakar/DSA/tree/master/0969-number-of-recent-calls) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NishulDhakar/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishulDhakar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Doubly-Linked List
 |  |
