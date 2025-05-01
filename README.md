@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/NishulDhakar/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/NishulDhakar/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/NishulDhakar/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NishulDhakar/DSA/tree/master/0054-spiral-matrix) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NishulDhakar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NishulDhakar/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NishulDhakar/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NishulDhakar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NishulDhakar/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NishulDhakar/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/NishulDhakar/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NishulDhakar/DSA/tree/master/0155-min-stack) |
@@ -284,6 +287,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NishulDhakar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NishulDhakar/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NishulDhakar/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NishulDhakar/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NishulDhakar/DSA/tree/master/0141-linked-list-cycle) |
@@ -359,6 +363,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NishulDhakar/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/NishulDhakar/DSA/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
