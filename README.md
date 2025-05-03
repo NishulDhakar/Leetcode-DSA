@@ -45,6 +45,7 @@
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/NishulDhakar/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/NishulDhakar/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -256,6 +257,7 @@
 | [0011-container-with-most-water](https://github.com/NishulDhakar/DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/NishulDhakar/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/NishulDhakar/DSA/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
