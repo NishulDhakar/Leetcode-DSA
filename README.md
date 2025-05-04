@@ -47,6 +47,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NishulDhakar/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/NishulDhakar/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NishulDhakar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/NishulDhakar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/NishulDhakar/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1500-count-largest-group](https://github.com/NishulDhakar/DSA/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -136,6 +138,7 @@
 | [0169-majority-element](https://github.com/NishulDhakar/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NishulDhakar/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NishulDhakar/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Dynamic Programming
