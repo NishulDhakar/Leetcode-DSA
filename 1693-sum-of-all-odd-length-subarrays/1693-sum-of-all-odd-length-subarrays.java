@@ -1,28 +1,22 @@
 class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
 
-        int[] prefix = new int[arr.length +1];
+        int n = arr.length;
 
-        for(int i = 0 ; i < arr.length ; i++){
-            prefix[i +1] = prefix[i] + arr[i];
+        int total = 0;
+
+        for(int i = 0; i <n ; i++){
+
+            int left = i + 1;
+
+            int right = n - i;
+
+            int totalSubArray = left * right;
+
+            int oddCount = (totalSubArray +1) / 2;
+
+            total += arr[i] * oddCount; 
         }
-
-        int total = 0 ;
-
-        for(int i = 0 ; i < arr.length ; i++){
-            for(int j = i ; j < arr.length ; j++){
-
-                if((j - i + 1) % 2 == 1){
-
-                    total += prefix[j + 1] - prefix[i];
-
-                }
-        }
-        }
-
         return total;
- 
-        
-        
     }
 }
