@@ -255,6 +255,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1508-longest-happy-prefix](https://github.com/NishulDhakar/DSA/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NishulDhakar/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishulDhakar/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/NishulDhakar/DSA/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -341,6 +342,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NishulDhakar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/NishulDhakar/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishulDhakar/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NishulDhakar/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
