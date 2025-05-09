@@ -1,5 +1,6 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
+        
         List<Integer> ans = new ArrayList<>();
         if (s == null || words.length == 0 || words[0].length() == 0) return ans;
 
