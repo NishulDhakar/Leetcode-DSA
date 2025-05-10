@@ -99,6 +99,7 @@
 | [0523-continuous-subarray-sum](https://github.com/NishulDhakar/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NishulDhakar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NishulDhakar/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -256,6 +257,7 @@
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NishulDhakar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NishulDhakar/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/NishulDhakar/DSA/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NishulDhakar/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -330,6 +332,7 @@
 | [0283-move-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/NishulDhakar/DSA/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -352,6 +355,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/NishulDhakar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NishulDhakar/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NishulDhakar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishulDhakar/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
