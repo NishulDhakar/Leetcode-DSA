@@ -50,6 +50,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NishulDhakar/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/NishulDhakar/DSA/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/NishulDhakar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/NishulDhakar/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NishulDhakar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
