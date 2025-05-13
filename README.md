@@ -45,6 +45,7 @@
 | [0724-find-pivot-index](https://github.com/NishulDhakar/DSA/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/NishulDhakar/DSA/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/NishulDhakar/DSA/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@
 | [0525-contiguous-array](https://github.com/NishulDhakar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NishulDhakar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/NishulDhakar/DSA/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -363,6 +365,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/NishulDhakar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NishulDhakar/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/NishulDhakar/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/NishulDhakar/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NishulDhakar/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
