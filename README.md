@@ -117,6 +117,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NishulDhakar/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NishulDhakar/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/NishulDhakar/DSA/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NishulDhakar/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/NishulDhakar/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0868-push-dominoes](https://github.com/NishulDhakar/DSA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NishulDhakar/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
@@ -190,6 +193,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NishulDhakar/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NishulDhakar/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
@@ -278,6 +282,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NishulDhakar/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NishulDhakar/DSA/tree/master/2536-determine-if-two-events-have-conflict) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NishulDhakar/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
