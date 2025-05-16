@@ -1,46 +1,43 @@
 class Solution {
     public List<String> getWordsInLongestSubsequence(String[] words, int[] groups) {
         int n = words.length;
-        int[] dp = new int[n]; // dp[i] = max length of subsequence ending at i
-        int[] parent = new int[n]; // for reconstruction
-        Arrays.fill(dp, 1);
-        Arrays.fill(parent, -1);
+        Map<Long, List<Integer>> map = new HashMap();
         
-        int maxLen = 1, maxIndex = 0;
+        int[] ansNext = new int[n];
+        int[] lengths = new int[n];
+        
+        int ansIndex = 0;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                // Only consider if groups are different and words same length and hamming distance == 1
-                if (groups[i] != groups[j] && words[i].length() == words[j].length() && hammingDistance(words[i], words[j]) == 1) {
-                    if (dp[j] + 1 > dp[i]) {
-                        dp[i] = dp[j] + 1;
-                        parent[i] = j;
-                    }
+        Arrays.fill(ansNext, n);
+
+        for (int left = n - 1; left >= 0; left--) {
+            String word = words[left];
+            int len = word.length();
+            int res = 1;
+            long completeMask = 0l;
+            long[] masks = new long[len];
+            for (int i = 0; i < len; i++) {
+                completeMask |= masks[i] = (long)(word.charAt(i) - 'a' + 1) << (5 * i);
+            }
+            for (int i = 0; i < len; i++) {
+                long targetMask = completeMask ^ masks[i];
+                List<Integer> queue = map.computeIfAbsent​(targetMask, (j) -> new ArrayList());
+                for (int idx : queue) {
+                    if (res >= lengths[idx] + 1 || groups[idx] == groups[left] ) continue;
+                    res = lengths[idx] + 1;
+                    ansNext[left] = idx;
                 }
+                queue.add(left);
             }
-            if (dp[i] > maxLen) {
-                maxLen = dp[i];
-                maxIndex = i;
-            }
+            lengths[left] = res;
+            if (lengths[ansIndex] < res) ansIndex = left;
         }
 
-        // Reconstruct the subsequence
-        List<String> result = new ArrayList<>();
-        while (maxIndex != -1) {
-            result.add(words[maxIndex]);
-            maxIndex = parent[maxIndex];
+        List<String> ans = new ArrayList(lengths[ansIndex]);
+        for (int i = ansIndex; i < n; i = ansNext[i]) {
+            ans.add(words[i]);
         }
 
-        Collections.reverse(result);
-        return result;
-    }
-
-    // Helper to compute hamming distance
-    private int hammingDistance(String a, String b) {
-        int dist = 0;
-        for (int i = 0; i < a.length(); i++) {
-            if (a.charAt(i) != b.charAt(i)) dist++;
-        }
-        return dist;
+        return ans;
     }
 }
