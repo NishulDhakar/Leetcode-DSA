@@ -180,6 +180,7 @@
 | [0868-push-dominoes](https://github.com/NishulDhakar/DSA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/NishulDhakar/DSA/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NishulDhakar/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NishulDhakar/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
