@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/NishulDhakar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NishulDhakar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NishulDhakar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/NishulDhakar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/NishulDhakar/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -219,6 +220,7 @@
 | [0067-add-binary](https://github.com/NishulDhakar/DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/NishulDhakar/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/NishulDhakar/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/NishulDhakar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
 ## Recursion
@@ -367,6 +369,7 @@
 | [0202-happy-number](https://github.com/NishulDhakar/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NishulDhakar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NishulDhakar/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/NishulDhakar/DSA/tree/master/0567-permutation-in-string) |
@@ -507,6 +510,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NishulDhakar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NishulDhakar/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/NishulDhakar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NishulDhakar/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/NishulDhakar/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
