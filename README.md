@@ -84,6 +84,7 @@
 | [3321-type-of-triangle](https://github.com/NishulDhakar/DSA/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NishulDhakar/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NishulDhakar/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NishulDhakar/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NishulDhakar/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/NishulDhakar/DSA/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NishulDhakar/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NishulDhakar/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -321,6 +324,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NishulDhakar/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NishulDhakar/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -487,6 +491,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NishulDhakar/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/NishulDhakar/DSA/tree/master/2915-count-of-interesting-subarrays) |
+| [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
 | ------- |
