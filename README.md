@@ -81,6 +81,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NishulDhakar/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NishulDhakar/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/NishulDhakar/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NishulDhakar/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/NishulDhakar/DSA/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NishulDhakar/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NishulDhakar/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -158,6 +159,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/NishulDhakar/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NishulDhakar/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NishulDhakar/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/NishulDhakar/DSA/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
@@ -188,6 +190,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/NishulDhakar/DSA/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NishulDhakar/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NishulDhakar/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NishulDhakar/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NishulDhakar/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NishulDhakar/DSA/tree/master/3637-count-number-of-balanced-permutations) |
@@ -225,6 +228,7 @@
 | [0287-find-the-duplicate-number](https://github.com/NishulDhakar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/NishulDhakar/DSA/tree/master/0401-binary-watch) |
 | [2478-longest-nice-subarray](https://github.com/NishulDhakar/DSA/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NishulDhakar/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Recursion
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NishulDhakar/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NishulDhakar/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NishulDhakar/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/NishulDhakar/DSA/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
@@ -549,4 +554,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/NishulDhakar/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NishulDhakar/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
