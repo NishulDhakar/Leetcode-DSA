@@ -50,6 +50,7 @@
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/NishulDhakar/DSA/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/NishulDhakar/DSA/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/NishulDhakar/DSA/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/NishulDhakar/DSA/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/NishulDhakar/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/NishulDhakar/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -349,6 +350,7 @@
 | [0048-rotate-image](https://github.com/NishulDhakar/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NishulDhakar/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NishulDhakar/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/NishulDhakar/DSA/tree/master/0945-snakes-and-ladders) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/NishulDhakar/DSA/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NishulDhakar/DSA/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -491,6 +493,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/NishulDhakar/DSA/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NishulDhakar/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/NishulDhakar/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/NishulDhakar/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
