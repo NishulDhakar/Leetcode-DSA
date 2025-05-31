@@ -46,6 +46,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/NishulDhakar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/NishulDhakar/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/NishulDhakar/DSA/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/NishulDhakar/DSA/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/NishulDhakar/DSA/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/NishulDhakar/DSA/tree/master/0940-fruit-into-baskets) |
@@ -365,6 +366,7 @@
 | [0234-palindrome-linked-list](https://github.com/NishulDhakar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/NishulDhakar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NishulDhakar/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/NishulDhakar/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/NishulDhakar/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NishulDhakar/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -479,6 +481,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/NishulDhakar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/NishulDhakar/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NishulDhakar/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/NishulDhakar/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/NishulDhakar/DSA/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
