@@ -224,6 +224,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NishulDhakar/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NishulDhakar/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/NishulDhakar/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/NishulDhakar/DSA/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NishulDhakar/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NishulDhakar/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -572,11 +573,13 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/NishulDhakar/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NishulDhakar/DSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/NishulDhakar/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/NishulDhakar/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 ## Tree
 |  |
 | ------- |
