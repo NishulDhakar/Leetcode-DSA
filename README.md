@@ -444,6 +444,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishulDhakar/DSA/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/NishulDhakar/DSA/tree/master/0386-lexicographical-numbers) |
 ## Graph
 |  |
 | ------- |
@@ -600,6 +601,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/NishulDhakar/DSA/tree/master/0386-lexicographical-numbers) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/NishulDhakar/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/NishulDhakar/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
