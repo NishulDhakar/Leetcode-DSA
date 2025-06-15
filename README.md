@@ -225,6 +225,7 @@
 | [1013-fibonacci-number](https://github.com/NishulDhakar/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NishulDhakar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NishulDhakar/DSA/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NishulDhakar/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NishulDhakar/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NishulDhakar/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -347,6 +348,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/NishulDhakar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NishulDhakar/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NishulDhakar/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NishulDhakar/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/NishulDhakar/DSA/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/NishulDhakar/DSA/tree/master/2032-largest-odd-number-in-string) |
