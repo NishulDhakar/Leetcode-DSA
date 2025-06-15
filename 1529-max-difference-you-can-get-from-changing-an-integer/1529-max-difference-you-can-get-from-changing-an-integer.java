@@ -1,49 +1,51 @@
 class Solution {
+    private int difference(int num) {
+        int firstNonNine = -1, firstNonOne = -1, firstDigit = -1;
+        int remaining = num;
+        while (remaining > 0) {
+            int digit = remaining % 10;
+            if (digit != 9) {
+                firstNonNine = digit;
+            }
+            if (digit > 1) {
+                firstNonOne = digit;
+            }
+            firstDigit = digit;
+            remaining /= 10;
+        }
+        
+        remaining = num;
+        int min = 0, max = 0;
+        int multiplier = 1;
+        while (remaining > 0) {
+            int digit = remaining % 10;
+            
+            int minDigit = digit;
+            int maxDigit = digit;
+            
+            if (firstDigit == 1 && digit == firstNonOne) {
+                minDigit = 0;
+            }
+            
+            if (firstDigit != 1 && digit == firstDigit) {
+                minDigit = 1;
+            }
+
+            if (digit == firstNonNine) {
+                maxDigit = 9;
+            }
+
+            min += multiplier * minDigit;
+            max += multiplier * maxDigit;
+
+            multiplier *= 10;    
+            remaining /= 10;
+        }
+        
+        return max - min;
+    }
+
     public int maxDiff(int num) {
-        String str = Integer.toString(num);
-        StringBuilder maxStr = new StringBuilder(str);
-        StringBuilder minStr = new StringBuilder(str);
-
-        // Get max number by replacing first non-'9' digit
-        char maxDigit = ' ';
-        for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) != '9') {
-                maxDigit = str.charAt(i);
-                break;
-            }
-        }
-
-        if (maxDigit != ' ') {
-            for (int i = 0; i < maxStr.length(); i++) {
-                if (maxStr.charAt(i) == maxDigit) {
-                    maxStr.setCharAt(i, '9');
-                }
-            }
-        }
-
-        // Get min number
-        char minDigit = str.charAt(0);
-        char replace = '1';
-
-        if (minDigit == '1') {
-            for (int i = 1; i < str.length(); i++) {
-                if (str.charAt(i) != '0' && str.charAt(i) != '1') {
-                    minDigit = str.charAt(i);
-                    replace = '0';
-                    break;
-                }
-            }
-        }
-
-        for (int i = 0; i < minStr.length(); i++) {
-            if (minStr.charAt(i) == minDigit) {
-                minStr.setCharAt(i, replace);
-            }
-        }
-
-        int maxVal = Integer.parseInt(maxStr.toString());
-        int minVal = Integer.parseInt(minStr.toString());
-
-        return maxVal - minVal;
+        return difference(num);
     }
 }
