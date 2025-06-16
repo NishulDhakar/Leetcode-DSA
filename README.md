@@ -67,6 +67,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NishulDhakar/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/NishulDhakar/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2048-build-array-from-permutation](https://github.com/NishulDhakar/DSA/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/NishulDhakar/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NishulDhakar/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/NishulDhakar/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NishulDhakar/DSA/tree/master/2215-finding-3-digit-even-numbers) |
