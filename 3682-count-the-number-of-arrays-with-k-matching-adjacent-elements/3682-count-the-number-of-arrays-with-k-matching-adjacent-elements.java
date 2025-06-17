@@ -1,45 +1,40 @@
-import java.math.BigInteger;
-
 class Solution {
-    static final int MX = 100000;
-    static final BigInteger MOD = BigInteger.valueOf(1_000_000_007);
-    static final BigInteger[] fact = new BigInteger[MX];
-    static final BigInteger[] invFact = new BigInteger[MX];
+    public int countGoodArrays(int n, int m, int k) {
+        if (f[0] == 0)
+            f[0] = 1;
+        long res = m * pow(m - 1, n - 1 - k) % mod * C(n - 1, n - 1 - k) % mod;
+        return (int) res;
+    }
 
-    static BigInteger qpow(BigInteger x, BigInteger n) {
-        BigInteger res = BigInteger.ONE;
-        while (n.signum() > 0) {
-            if (n.testBit(0)) {
-                res = res.multiply(x).mod(MOD);
-            }
-            x = x.multiply(x).mod(MOD);
-            n = n.shiftRight(1);
+    int mod = 1_000_000_007;
+    static long[] revs = new long[100001];
+    static int[] f = new int[100001];
+
+    public long pow(int a, int b) {
+        long res = 1;
+        long base = a;
+        while (b > 0) {
+            if ((b & 1) == 1)
+                res = res * base % mod;
+            base = base * base % mod;
+            b /= 2;
         }
         return res;
     }
 
-    static void init() {
-        if (fact[0] != null) return;
-        fact[0] = BigInteger.ONE;
-        for (int i = 1; i < MX; i++) {
-            fact[i] = fact[i - 1].multiply(BigInteger.valueOf(i)).mod(MOD);
-        }
-        invFact[MX - 1] = qpow(fact[MX - 1], MOD.subtract(BigInteger.TWO));
-        for (int i = MX - 2; i >= 0; i--) {
-            invFact[i] = invFact[i + 1].multiply(BigInteger.valueOf(i + 1)).mod(MOD);
-        }
+    public long C(int a, int b) {
+        return (long) getF(a) * rev(getF(a - b)) % mod * rev(getF(b)) % mod;
     }
 
-    static BigInteger comb(int n, int m) {
-        if (m < 0 || m > n) return BigInteger.ZERO;
-        return fact[n].multiply(invFact[m]).mod(MOD).multiply(invFact[n - m]).mod(MOD);
+    public long getF(int a) {
+        if (f[a] != 0)
+            return f[a];
+        return f[a] = (int) (getF(a - 1) * a % mod);
     }
 
-    public int countGoodArrays(int n, int m, int k) {
-        init();
-        BigInteger res = comb(n - 1, k);
-        res = res.multiply(BigInteger.valueOf(m)).mod(MOD);
-        res = res.multiply(qpow(BigInteger.valueOf(m - 1), BigInteger.valueOf(n - k - 1))).mod(MOD);
-        return res.intValue();
+    public long rev(long a) {
+        if (a == 1)
+            return a;
+        return mod - mod / a * rev(mod % a) % mod;
     }
 }
